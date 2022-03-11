@@ -1,6 +1,6 @@
 # ToggleAllViewers
  
-## Turning off op viewers can significantly cut down on resourses.
+## *Turning off op viewers can significantly cut down on resourses.*
 
 
 If the 'Recursive' parameter is set to 'off' the button will toggle all viewers from on to off in the current network.
