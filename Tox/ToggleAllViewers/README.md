@@ -9,8 +9,7 @@
 
 	the button will toggle all viewers from on to off in the current network.
 
-'Recursive' set to **'on'** 
-	:
+'Recursive' set to **'on'** :
 	make sure to choose the desired state by pressing the button that appears on the container once 'Recursive' has been set to **'on'**
 	Increase max depth until the ops counter goes as high as possible and stops increasing. 
 	By default it is set to 25, which should be more than enough in most cases.
