@@ -3,7 +3,10 @@
 ## *Turning off op viewers can significantly cut down on resourses.*
 
 
-### Open this tox in any touchDesigner network to toggle viewer state of every node from off and on
+### Open this tox in any touchDesigner network to toggle viewer state of every node from off and on[^1]
+
+[^1]: Don't forget to make the viewer active by highlighted this component and pressing 'a' on the keyboard
+
 
 'Recursive' set to ** 'off' ** :
 
