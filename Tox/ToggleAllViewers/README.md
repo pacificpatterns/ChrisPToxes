@@ -8,11 +8,11 @@
 [^1]: Don't forget to make the viewer active by highlighted this component and pressing 'a' on the keyboard
 
 
-'Recursive' set to ** 'off' ** :
+'Recursive' set to **off** :
 
 	the button will toggle all viewers from on to off in the current network.
 
-'Recursive' set to ** 'on' ** :
+'Recursive' set to **on** :
 
 	Make sure to choose the desired state by pressing the button that appears on the container
 	Increase max depth until the ops counter goes as high as possible and stops increasing. 
