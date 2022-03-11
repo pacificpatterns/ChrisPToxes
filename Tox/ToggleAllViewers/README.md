@@ -4,15 +4,19 @@
 
 
 ### Open this tox in any touchDesigner network to toggle viewer state of every node from off and on
-If the 'Recursive' parameter is set to 'off' the button will toggle all viewers from on to off in the current network.
 
-If the 'Recursive' parameter is set to 'on' make sure to check on the on or off button for desired operation.
+'Recursive' set to **'off'** :
 
-increase max depth until the ops counter goes as high as possible and stops increasing
+	the button will toggle all viewers from on to off in the current network.
 
-when max depth is set to 0 it will only effect nodes in the same network that this OP has been loaded into
+'Recursive' set to **'on'** :
+	make sure to choose the desired state by pressing the button that appears on the container once 'Recursive' has been set to **'on'**
 
-when max depth is increased, nodes within subnetworks will be affected according to the level of defpath
+	Increase max depth until the ops counter goes as high as possible and stops increasing. By default it is set to 25, which should be more than enough in most cases.
 
-minimm depth works the opposite direction as max depth.
+	when max depth is set to 0 it will only effect nodes in the same network that this OP has been loaded into
+
+	when max depth is increased, nodes within subnetworks will be affected according to the level of defpath
+
+	minimm depth works the opposite direction as max depth.
 
