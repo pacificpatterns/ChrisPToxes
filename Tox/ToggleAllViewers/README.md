@@ -3,6 +3,7 @@
 ## *Turning off op viewers can significantly cut down on resourses.*
 
 
+### Open this tox in any touchDesigner network to toggle viewer state of every node from off and on
 If the 'Recursive' parameter is set to 'off' the button will toggle all viewers from on to off in the current network.
 
 If the 'Recursive' parameter is set to 'on' make sure to check on the on or off button for desired operation.
