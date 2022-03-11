@@ -21,3 +21,5 @@
 	when max depth is increased, nodes within subnetworks will be affected according to the level of defpath
 	Minimm depth works the opposite direction as max depth.
 
+By default this container wont be displayed inside of its parent's viewer.
+Turn the display parameter on under the 'Panel' page to turn it on.
